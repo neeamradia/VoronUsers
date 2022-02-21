@@ -7,11 +7,17 @@ Can be used with ABBN-30 or Stock Afterburner and an LGX Lite extruder
 
 **It is suggested to print the parts following the Voron Design standards:
     0.2mm Layer Height
+
     Forced 0.4mm Extrusion Width
+
     40% Infill
+
     4 Walls
+
     5 Solid Top/Bottom Layers
+
     No Supports
+    
     Grid, Gyroid, Honeycomb, Triangle or Cubic Infill**
 
 ## BOM
