@@ -24,4 +24,7 @@ Standard ABBN/AB parts + the following:
 ## Assembly
 
 Heat set inserts need to go into these holes:
+
 ![heat-set insert locations](https://github.com/neeamradia/VoronUsers/blob/master/printer_mods/Phazis/Afterburner_Creality/Images/HeatSet_Locations.png?raw=true)
+
+
